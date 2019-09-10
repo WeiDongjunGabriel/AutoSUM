@@ -15,11 +15,11 @@ pip install tqdm
 ### Train
 ```linux
 git clone git@github.com:WeiDongjunGabriel/ESA.git
-cd .../ESA
+cd .../AutoSUM
 cd model
 python main.py
 ```
-we also provide a commandline tool for training the ESA model, you can also run the following command for more details:
+we also provide a commandline tool for training the AutoSUM model, you can also run the following command for more details:
 ```linux
 python main.py -h
 ```
@@ -62,7 +62,7 @@ python main.py \
 ```
 ### Test
 ```linux
-cd .../ESA
+cd .../AutoSUM
 cd test
 sh run.sh
 ```
