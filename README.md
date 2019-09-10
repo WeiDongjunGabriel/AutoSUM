@@ -1,11 +1,5 @@
-# ESA: Entity Summarization with Attention
-Entity Summarization with Attention
-## BACKGROUND AND CONTRIBUTORS
-### Background
-This [paper](https://arxiv.org/abs/1905.10625) is in procedings of CIKM 2019, we propose a novel tenchniuqe in entity summarization task with attention mechanism.
-### Contributors
-- **Dongjun Wei** weidongjun@iie.ac.cn
-- **Yaxin Liu** liuyaxin@iie.ac.cn
+# AutoSUM: Automating Feature Extraction and Multi-user Preference for Entity Summarization
+Automation Feature Extraction and Multi-user Preference for Entity Summarization
 ## ENVIRONMENT AND DEPENDENCY
 ### Environment
 - Ubuntu 16.04
