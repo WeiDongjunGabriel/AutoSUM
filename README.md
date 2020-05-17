@@ -66,3 +66,19 @@ cd .../AutoSUM
 cd test
 sh run.sh
 ```
+### Citation
+If you use this benchmark, please kindly cite the following paper:
+
+```
+@inproceedings{AutoSUM,
+  author    = {Dongjun Wei and
+                Yaxin Liu and
+                Fuqing Zhu and
+                Liangjun Zang and
+                Wei Zhou and
+                Yijun Lu and 
+                Songlin Hu},
+  title     = {AutoSUM: Automating Feature Extraction and Multi-user Preference for Entity Summarization},
+  booktitle = {PAKDD},
+  year      = {2020}
+}
