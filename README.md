@@ -67,7 +67,7 @@ cd test
 sh run.sh
 ```
 ### Citation
-If you use this benchmark, please kindly cite the following paper:
+If you use this code, please kindly cite the following paper:
 
 ```
 @inproceedings{AutoSUM,
