@@ -1,5 +1,5 @@
 # AutoSUM: Automating Feature Extraction and Multi-user Preference for Entity Summarization
-Automating Feature Extraction and Multi-user Preference for Entity Summarization
+PAKDD'20 paper: "AutoSUM: Automating Feature Extraction and Multi-user Preference for Entity Summarization"
 ## ENVIRONMENT AND DEPENDENCY
 ### Environment
 - Ubuntu 16.04
