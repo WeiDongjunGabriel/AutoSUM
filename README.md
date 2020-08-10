@@ -66,7 +66,7 @@ cd .../AutoSUM
 cd test
 sh run.sh
 ```
-## Citation
+## CITATION
 If you use our code or model, please kindly cite the following paper:
 
 ```
